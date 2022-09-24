@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-To see the changes I made to make the website more accessible, I have included the starter code in original_index.html in the repository. You can see the new code in index.html.
+To see the changes I made to make the website more accessible, I have included the starter code in original_index.html in the repository. You can see the new code in index.html in the Develop folder.
 
 ## Credits
 
