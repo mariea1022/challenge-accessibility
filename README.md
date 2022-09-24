@@ -1,4 +1,4 @@
-# <Challenge 1: Semantic HTML & Accessibility>
+# Challenge 1: Semantic HTML & Accessibility
 
 ## Description
 
@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-To see the changes I made to make the website more accessible, I have included the starter code in originalindex.html in the repository. You can see the new code in index.html.
+To see the changes I made to make the website more accessible, I have included the starter code in original_index.html in the repository. You can see the new code in index.html.
 
 ## Credits
 
