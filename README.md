@@ -17,8 +17,7 @@ To see the changes I made to make the website more accessible, I have included t
 Below is the image of the website's landing page.
 ![website landing page image](https://github.com/mariea1022/challenge-accessibility/blob/main/assets/images/horiseon-landing-page.png)
 
-Below is the link to the deloyed webpage application.
-[website landing page](https://mariea1022.github.io/challenge-accessibility/)
+[Here is the link to the deployed webpage application.](https://mariea1022.github.io/challenge-accessibility/)
 
 ## Credits
 
