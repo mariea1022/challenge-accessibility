@@ -15,10 +15,10 @@ N/A
 To see the changes I made to make the website more accessible, I have included the starter code in original_index.html in the repository. You can see the new code in index.html.
 
 Below is the image of the website's landing page.
-<img src=".assets/images/horiseon-landing-page.png">
+![website landing page image](https://github.com/mariea1022/challenge-accessibility/blob/main/assets/images/horiseon-landing-page.png)
 
 Below is the link to the deloyed webpage application.
-<link href="https://mariea1022.github.io/challenge-accessibility/">
+[website landing page](https://mariea1022.github.io/challenge-accessibility/)
 
 ## Credits
 
